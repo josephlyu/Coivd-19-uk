@@ -32,23 +32,6 @@ uk2 = pd.read_csv('UK_by_area.csv',parse_dates=['date'])
 uk1.head()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -127,32 +110,11 @@ uk1.head()
     </tr>
   </tbody>
 </table>
-</div>
-
-
-
 
 ```python
 uk2.head()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -213,8 +175,6 @@ uk2.head()
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ### Some basic information:
@@ -277,8 +237,13 @@ In epidemiology, the basic reproduction number ***(R0)*** of an infection can be
 The R0 value only applies when everyone in a population is completely vulnerable to the disease (which is the case for a novel coronavirus with no vaccines as of yet). Therefore, all of the goverment's restrictive measures(i.e. ***lockdown***, ***social distancing***) are intended to lower the ***R0*** value until it's ***less than 1***.
 
 With limited epidemiological knowledge and a basic dataset, I will use a very crude model to estimate the reproductive rates and show the general numerical growth trend of confirmed cases and deaths:
-- *If we assume every infected person will infect R0 people during one day, we then have:*<br><br>
-$$R_0 \ of \ the \ day \ = \ \frac{cumulative \ cases \ of \ the \ day}{cumulative \ cases \ of \ last \ day} \ - \ 1$$
+- *If we assume every infected person will infect R0 people during one day, we then have:*<br>
+
+$$
+R_0 \ of \ the \ day \ = \ \frac{cumulative \ cases \ of \ the \ day}{cumulative \ cases \ of \ last \ day} \ - \ 1
+$$
+
+
 
 #### *We then plot the graph (from 2020-02-28):*
 
@@ -312,6 +277,7 @@ Despite the simplicity of the formula, there is some information we can gain fro
 ### 2.2 Turning point judgement
 In the middle of an exponential curve, it is very hard to tell how it will develop and whether a turning point is approaching. However, for an exponential function *y = f(x)*, if we plot *y values* in the x-axis, and *the changes of x value (i.e. delta x)* in the y-axis, both in ***logarithmic scale***, the resulting graph should be linear.<br><br>
 This method has provided us with a simple and ***straightforward approach*** to show the trend: 
+
 - *If we plot the total number of cases in the x-axis and the number of new cases in the y-axis (both in logarithmic scale), where a positive **linear** relationship means that the virus is **spreading** and a **drop** indicates that the pandemic is **under control**.*
 
 #### *We use the data in Italy as an example:*
