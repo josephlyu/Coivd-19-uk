@@ -1,6 +1,6 @@
 # Data Analysis Report
 ### *about COVID-19 outbreak in the United Kingdom*
-#### Auther: Shangjie Lyu<br>Data up to 10/04/2020<br> *(josephlyu.sj@gmail.com)*
+#### Full report is available: https://josephlyu.github.io/Coivd19-UK-Analysis/
 
 
 ## 1. Introduction
