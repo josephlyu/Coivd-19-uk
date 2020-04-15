@@ -1,6 +1,6 @@
 # Data Analysis Report 
 ### *about COVID-19 outbreak in the United Kingdom*
-#### Full report is available: https://josephlyu.github.io/Coivd19-UK-Analysis/
+#### Full report is available in: https://josephlyu.github.io/Coivd19-UK-Analysis/
 
 
 ## 1. Introduction
@@ -132,5 +132,3 @@ This report has examined three aspects of the coronavirus pandemic in the UK, an
 ## STAY AT HOME 
 ## PROTECT THE NHS
 ## SAVE LIVES
-
-#### ***Thanks for reading***<br>*You're welcome to drop any questions: josephlyu.sj@gmail.com*
