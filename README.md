@@ -1,6 +1,6 @@
 # Data Analysis Report 
 ### *about COVID-19 outbreak in the United Kingdom*
-#### Full report is available in: https://josephlyu.github.io/Coivd19-UK-Analysis/
+#### Full report is available at: https://analysis.shangjielyu.com/
 
 
 ## 1. Introduction
