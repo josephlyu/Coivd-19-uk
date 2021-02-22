@@ -100,6 +100,8 @@ Given the information that:
 
 Combining the data, graphs and anlyses in this section, assuming that the development of coronavirus in the UK will follow a similar pattern to Italy, we have reason to believe that the disease will ***reach a peak*** within the ***next few days*** in the ***UK***, and the daily increase in cases will drop below ***1,000*** within ***the next 25 days***.
 
+
+
 ### 2.3 Mortality rate
 
 Finally, we can examine the relationship between infection and mortality.
