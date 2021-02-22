@@ -2,7 +2,7 @@
 
 ### *about COVID-19 outbreak in the United Kingdom*
 
-#### Full report is available at: https://analysis.shangjielyu.com/
+#### Full report is available at: https://analysis.shangjielyu.com/<br><br>
 
 ## 1. Introduction
 
@@ -34,7 +34,7 @@ As shown above, the vast majority of infections happened in **England**, account
 
 ![img3](imgs/img3.png)
 
-We can see that **London** has the largest number of confirmed cases among the regions of England, with almost **twice** that of the second most affected region, the Midlands.
+We can see that **London** has the largest number of confirmed cases among the regions of England, with almost **twice** that of the second most affected region, the Midlands.<br><br>
 
 ## 2. Current situation and trend estimation
 
@@ -65,7 +65,7 @@ Despite the simplicity of the formula, there is some information we can gain fro
   - *The exact R0 values in the graph are inaccurate. For the purpose of this crude calculation, I assumed the infection period to be 1 day, whereas it is around 10 in reality (there are also many other vital factors I didn't take into consideration). The actual R0 value should be at least few times larger than this graph suggests.*
   - *The graph of deaths was extremely unstable in early March - this was due to the small sample size initially.*
 2. **We are not testing enough.** 
-  - *We can see that the R0 value for deaths is consistently **higher** than that for infection, when it should be at the same level.This indicates that there are **more infected people** than have been recorded and we are not testing enough.*
+  - *We can see that the R0 value for deaths is consistently **higher** than that for infection, when it should be at the same level.This indicates that there are **more infected people** than have been recorded and we are not testing enough.*<br><br>
 
 ### 2.2 Turning point judgement
 
@@ -98,9 +98,7 @@ Given the information that:
 3. As of today (April 10 2020), the UK has ***5,195*** new cases, ***70,272*** total cases and ***8,958*** total deaths.
 4. On April 8 2020, the number of new cases in Italy dropped below ***1,000*** for the first time and has kept decreasing.
 
-Combining the data, graphs and anlyses in this section, assuming that the development of coronavirus in the UK will follow a similar pattern to Italy, we have reason to believe that the disease will ***reach a peak*** within the ***next few days*** in the ***UK***, and the daily increase in cases will drop below ***1,000*** within ***the next 25 days***.
-
-
+Combining the data, graphs and anlyses in this section, assuming that the development of coronavirus in the UK will follow a similar pattern to Italy, we have reason to believe that the disease will ***reach a peak*** within the ***next few days*** in the ***UK***, and the daily increase in cases will drop below ***1,000*** within ***the next 25 days***.<br><br>
 
 ### 2.3 Mortality rate
 
@@ -116,7 +114,7 @@ From this graph, we can tell that:
 2. The mortality rate is growing ***much slower*** than it was initially, but is ***not yet stable***. 
 3. The rate of infection is decelerating and is ***almost stable***.
 
-Therefore, we must ***lower the mortality rate*** as a matter of priority.
+Therefore, we must ***lower the mortality rate*** as a matter of priority.<br><br>
 
 ## 3. Conclusion
 
@@ -124,11 +122,11 @@ This report has examined three aspects of the coronavirus pandemic in the UK, an
 
 1. **The restrictive measures have worked effectively and we are now fairly close to the peak.**
 2. **The daily increase in confirmed cases is very likely to drop below 1,000 within the next 25 days.**
-3. **What currently needs to be prioritised is the expansion of testing and the reduction of mortality rate.**
+3. **What currently needs to be prioritised is the expansion of testing and the reduction of mortality rate.**<br><br>
 
-#### Death is not just a statistic, but a real life. 
+#### Death is not just a statistic, but a real life.<br><br>
 
-## STAY AT HOME 
+## STAY AT HOME
 
 ## PROTECT THE NHS
 
