@@ -1,5 +1,5 @@
 html {
-  font-size: 1rem;
+  font-size: 16px;
 }
 
 a {
@@ -35,7 +35,7 @@ div.input_area {
 }
 
 div.output_wrapper {
-  margin-top: 8px;
+  margin-top: 0.5rem;
 }
 
 div.output_png {
@@ -48,7 +48,7 @@ div.output_html {
 }
 
 table.dataframe thead tr {
-  color: #A05200;
+  color: #a05200;
   border-bottom: 1px solid #828282;
 }
 
