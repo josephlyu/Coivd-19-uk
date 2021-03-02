@@ -48,7 +48,7 @@ div.output_html {
 }
 
 table.dataframe thead tr {
-  color: #a05200;
+  color: #A05200;
   border-bottom: 1px solid #828282;
 }
 
@@ -58,13 +58,13 @@ table.dataframe thead tr:only-child th {
 }
 
 table.dataframe tbody tr th {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   text-align: left;
   font-style: italic
 }
 
 table.dataframe tbody tr td {
-  background-color: #fff9ea;
+  background-color: #FFF9EA;
   color: #828282;
   padding-left: 1rem;
   padding-right: 1rem;
