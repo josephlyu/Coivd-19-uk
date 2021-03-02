@@ -11,8 +11,13 @@ pre {
   font-size: 0.75rem;
 }
 
+h1 {
+  font-size: 2.5rem !important;
+}
+
 div#notebook-container {
   box-shadow: none;
+  padding: 0px;
 }
 
 div#notebook {
@@ -31,6 +36,10 @@ div.input_area {
 
 div.output_wrapper {
   margin-top: 8px;
+}
+
+div.output_png {
+  text-align: center;
 }
 
 div.output_html {
