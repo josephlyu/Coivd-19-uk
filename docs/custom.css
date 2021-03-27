@@ -17,7 +17,6 @@ h1 {
 
 div#notebook-container {
   box-shadow: none;
-  width: 940px;
 }
 
 div#notebook {
@@ -68,4 +67,10 @@ table.dataframe tbody tr td {
   color: #828282;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 940px;
+  }
 }
