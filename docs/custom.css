@@ -88,6 +88,10 @@ table.dataframe tbody tr td {
   div#notebook-container {
     padding: 0px;
   }
+  
+  div#notebook {
+    line-height: 12.5px;
+  }
 
   table.dataframe {
     font-size: 8px;
