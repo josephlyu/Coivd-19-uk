@@ -46,6 +46,10 @@ div.output_html {
   font-size: 0.75rem;
 }
 
+table.dataframe {
+  font-size: 0.75rem;
+}
+
 table.dataframe thead tr {
   color: #A05200;
   border-bottom: 1px solid #828282;
@@ -82,7 +86,7 @@ table.dataframe tbody tr td {
   }
 
   pre {
-    font-size: 8px;
+    font-size: 7.5px;
   }
 
   div#notebook-container {
@@ -94,6 +98,6 @@ table.dataframe tbody tr td {
   }
 
   table.dataframe {
-    font-size: 8px;
+    font-size: 7.5px;
   }
 }
