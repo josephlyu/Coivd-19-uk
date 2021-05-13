@@ -109,11 +109,11 @@ table.dataframe tbody tr td {
 
   table.dataframe thead th,
   table.dataframe tbody td {
-      padding: 3px;
+      padding: 2px;
   }
 
   table.dataframe tbody tr td {
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
