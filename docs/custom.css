@@ -57,7 +57,7 @@ table.dataframe thead tr {
 
 table.dataframe thead th,
 table.dataframe tbody td {
-  padding: 6px;
+  padding-top: 6px;
 }
 
 table.dataframe thead tr th,
@@ -109,7 +109,7 @@ table.dataframe tbody tr td {
 
   table.dataframe thead th,
   table.dataframe tbody td {
-      padding: 1px;
+      padding-top: 2px;
   }
 
   table.dataframe tbody tr td {
