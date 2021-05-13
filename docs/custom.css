@@ -76,7 +76,7 @@ table.dataframe tbody tr td {
   }
 }
 
-@media (max-width: 577px) {
+@media (max-width: 570px) {
   html {
     font-size: 10px;
   }
@@ -100,11 +100,11 @@ table.dataframe tbody tr td {
 
   table.dataframe thead th,
   table.dataframe tbody td {
-    padding-top: 0px;
+    padding-top: 2px;
   }
 
   table.dataframe tbody tr th {
-    padding-top: 0px;
+    padding-top: 2px;
   }
 
   table.dataframe tbody tr td {
