@@ -100,11 +100,11 @@ table.dataframe tbody tr td {
 
   table.dataframe thead th,
   table.dataframe tbody td {
-    padding-top: 3px;
+    padding-top: 0px;
   }
 
   table.dataframe tbody tr th {
-    padding-top: 3px;
+    padding-top: 0px;
   }
 
   table.dataframe tbody tr td {
