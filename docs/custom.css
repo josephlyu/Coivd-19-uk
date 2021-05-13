@@ -46,18 +46,9 @@ div.output_html {
   font-size: 0.75rem;
 }
 
-table.dataframe {
-  font-size: 0.75rem;
-}
-
 table.dataframe thead tr {
   color: #A05200;
   border-bottom: 1px solid #828282;
-}
-
-table.dataframe thead th,
-table.dataframe tbody td {
-  padding-top: 6px;
 }
 
 table.dataframe thead tr th,
@@ -68,7 +59,7 @@ table.dataframe thead tr:only-child th {
 table.dataframe tbody tr th {
   background-color: #FFFFFF;
   text-align: left;
-  font-style: italic
+  font-style: italic;
 }
 
 table.dataframe tbody tr td {
@@ -109,11 +100,15 @@ table.dataframe tbody tr td {
 
   table.dataframe thead th,
   table.dataframe tbody td {
-    padding-top: 2px;
+    padding-top: 3px;
+  }
+
+  table.dataframe tbody tr th {
+    padding-top: 3px;
   }
 
   table.dataframe tbody tr td {
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 }
