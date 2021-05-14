@@ -76,7 +76,7 @@ table.dataframe tbody tr td {
   }
 }
 
-@media (max-width: 570px) {
+@media (max-width: 540px) {
   html {
     font-size: 10px;
   }
